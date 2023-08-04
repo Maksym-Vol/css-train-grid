@@ -304,5 +304,6 @@
 
 .task52 {
   display: grid;
+  
   grid-template-columns: repeat(6, minmax(100px, 1fr));
 }
